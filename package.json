@@ -1,0 +1,13 @@
+{
+  "name": "indecision-app",
+  "version": "1.0.0",
+  "description": "React example from Udemy course",
+  "main": "index.js",
+  "repository": "https://github.com/nathie/indecision-app.git",
+  "author": "Gleidy Mendoza",
+  "license": "MIT",
+  "dependencies": {
+    "babel-preset-env": "1.5.2",
+    "babel-preset-react": "6.24.1"
+  }
+}
